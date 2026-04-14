@@ -1,1 +1,2 @@
-this is my first commit , there is some chnages
+this is my first commit 
+there is some changes 
