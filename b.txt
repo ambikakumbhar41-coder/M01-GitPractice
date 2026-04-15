@@ -1,1 +1,2 @@
-this is my second commad
+this is my second commit
+changes is github
